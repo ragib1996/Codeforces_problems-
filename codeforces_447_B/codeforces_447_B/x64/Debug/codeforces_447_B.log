@@ -1,0 +1,4 @@
+﻿  codeforces_447_B.cpp
+E:\Ragib\C++ visual studio\codeforces_447_B\codeforces_447_B\codeforces_447_B.cpp(38,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Ragib\C++ visual studio\codeforces_447_B\codeforces_447_B\codeforces_447_B.cpp(11,12): warning C4101: 'j': unreferenced local variable
+  codeforces_447_B.vcxproj -> E:\Ragib\C++ visual studio\codeforces_447_B\x64\Debug\codeforces_447_B.exe
