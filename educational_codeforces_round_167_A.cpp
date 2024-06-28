@@ -6,6 +6,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
 
+// Problem link : https://codeforces.com/contest/1989/problem/A
 #include <iostream>
 #include<stdio.h>
 using namespace std;
