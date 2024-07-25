@@ -1,0 +1,3 @@
+﻿  books.cpp
+E:\Ragib\C++ visual studio\books\books\books.cpp(9,12): warning C4101: 'j': unreferenced local variable
+  books.vcxproj -> E:\Ragib\C++ visual studio\books\x64\Debug\books.exe
